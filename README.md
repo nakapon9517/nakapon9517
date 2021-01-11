@@ -8,9 +8,9 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nakapon9517&show_icons=true&locale=en&layout=&hide=go,Assembly&theme=tokyonight" alt="nakapon9517" />
 </p>
 
-- 👯 &nbsp; I’m looking to collaborate on [learn-speak](https://github.com/nakapon9517/learn-speak)
-- 📄 &nbsp; Know about my experiences [resume](https://www.resume.id/nakapooooon)
-- 🎮 &nbsp; I made Online Game Karuta [iOS](https://apps.apple.com/jp/app/%E5%B2%A1%E5%B1%B1sdgs%E3%82%AB%E3%83%AB%E3%82%BF-%E3%83%90%E3%83%AA%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC%E7%B7%A8/id1542970005) [Android](https://play.google.com/store/apps/details?id=com.ous.sdgs.karuta)
+- 📄 &nbsp; Know about my experiences. [RESUME](https://www.resume.id/nakapooooon)
+- 👯 &nbsp; I studied React for the sake of learning. [learn-speak](https://github.com/nakapon9517/learn-speak)
+- 📱 &nbsp; I made online game Karuta. [🎮 iOS](https://apps.apple.com/jp/app/%E5%B2%A1%E5%B1%B1sdgs%E3%82%AB%E3%83%AB%E3%82%BF-%E3%83%90%E3%83%AA%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC%E7%B7%A8/id1542970005) [🎮 Android](https://play.google.com/store/apps/details?id=com.ous.sdgs.karuta)
 
 <h3 align="left">Follow & Connect with me:</h3>
 <p align="left">
