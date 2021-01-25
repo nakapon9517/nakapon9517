@@ -4,8 +4,8 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
 
 <!-- <h2 align="left">Nakazato's&nbsp;profile</h2> -->
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nakapon9517&show_icons=true&locale=en&theme=radical" alt="nakapon9517" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nakapon9517&show_icons=true&locale=en&layout=&hide=go,Assembly&theme=dracula" alt="nakapon9517" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nakapon9517&show_icons=true&locale=en" alt="nakapon9517" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nakapon9517&show_icons=true&locale=en&layout=&hide=go,Assembly" alt="nakapon9517" />
 </p>
 
 - 📄 &nbsp; Know about my experiences. [RESUME](https://www.resume.id/nakapooooon)
