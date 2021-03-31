@@ -9,8 +9,8 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
 </p>
 
 - 📄 &nbsp; レジュメ. [RESUME](https://www.resume.id/nakapooooon)
-- 👯 &nbsp; React学習用に文字→音声出力サービスを作りました. [learn-speak](https://github.com/nakapon9517/learn-speak)
-- 📱 &nbsp; オンライン対戦ゲーム、かるたを作りました. [🎮 iOS](https://apps.apple.com/jp/app/%E5%B2%A1%E5%B1%B1sdgs%E3%82%AB%E3%83%AB%E3%82%BF-%E3%83%90%E3%83%AA%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC%E7%B7%A8/id1542970005) [🎮 Android](https://play.google.com/store/apps/details?id=com.ous.sdgs.karuta)
+- 👯 &nbsp; 【React学習用】文字→音声出力サービスを開発. [learn-speak](https://github.com/nakapon9517/learn-speak)
+- 📱 &nbsp; 【母校とコラボ】オンライン対戦ゲーム、かるたを開発. [🎮 iOS](https://apps.apple.com/jp/app/%E5%B2%A1%E5%B1%B1sdgs%E3%82%AB%E3%83%AB%E3%82%BF-%E3%83%90%E3%83%AA%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC%E7%B7%A8/id1542970005) [🎮 Android](https://play.google.com/store/apps/details?id=com.ous.sdgs.karuta)
 
 <h3 align="left">Follow & Connect with me:</h3>
 <p align="left">
