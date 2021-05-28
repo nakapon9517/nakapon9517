@@ -7,6 +7,8 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
   <img src="https://github-readme-stats.vercel.app/api?username=nakapon9517&count_private=true&show_icons=true&locale=en&include_all_commits=true" alt="nakapon9517" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nakapon9517&count_private=true&show_icons=true&locale=en&layout=&hide=go,Assembly" alt="nakapon9517" />
 </div>
+
+
 - 👉 &nbsp; 【経歴まとめ】 [Notion](https://www.notion.so/config-4f18f5476e8d44a38ea752de9b9d6af7)
 - 📄 &nbsp; 【レジュメ】 [Resume](https://www.resume.id/nakapooooon)
 - 📲 &nbsp; 【ReactNative】 ReactNativeテンプレート [template_reactnative](https://github.com/nakapon9517/template_reactnative)
