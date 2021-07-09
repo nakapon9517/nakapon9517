@@ -4,8 +4,8 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
 
 <!-- <h2 align="left">Nakazato's&nbsp;profile</h2> -->
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=nakapon9517&count_private=true&show_icons=true&locale=en&include_all_commits=true" alt="nakapon9517" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nakapon9517&count_private=true&show_icons=true&locale=en&layout=&=layout=compact&hide=go,Assembly" alt="nakapon9517" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nakapon9517&count_private=true&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight" alt="nakapon9517" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nakapon9517&count_private=true&show_icons=true&locale=en&layout=compact&hide=go,Assembly&theme=tokyonight" alt="nakapon9517" />
 </div>
 
 
