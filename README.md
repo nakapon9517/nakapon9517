@@ -16,10 +16,27 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
 <ul>
   <li>
     <div>
-      <span>📣&nbsp;</span>
-      <span>2020/6</span>
-      <span>Reactでの文字→音声出力サービス</span>
-      <a style="padding: 0 4px;" href="https://github.com/nakapon9517/learn-speak">リポジトリ</a>
+      <span>🚃&nbsp;</span>
+      <span>2022/2</span>
+      <span>（NEW）最適な集合場所を決められるサービス</span>
+      <a style="padding: 0 4px;" href="https://apps.apple.com/jp/app/この指とまれ/id1606856291">iOS</a>
+      <a style="padding: 0 4px;" href="https://play.google.com/store/apps/details?id=com.app.gatheragain">Android</a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <span>📝&nbsp;</span>
+      <span>2021/8</span>
+      <span>シンプルなメモアプリ</span>
+      <a style="padding: 0 4px;" href="https://apps.apple.com/jp/app/meemoo/id1575680714">iOS</a>
+    </div>
+  </li>
+  <li>
+    <div>
+      <span>📲&nbsp;</span>
+      <span>2021/5</span>
+      <span>ReactNativeテンプレート</span>
+      <a style="padding: 0 4px;" href="https://github.com/nakapon9517/template_reactnative">リポジトリ</a>
     </div>
   </li>
   <li>
@@ -33,26 +50,10 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
   </li>
   <li>
     <div>
-      <span>📲&nbsp;</span>
-      <span>2021/5</span>
-      <span>ReactNativeテンプレート</span>
-      <a style="padding: 0 4px;" href="https://github.com/nakapon9517/template_reactnative">リポジトリ</a>
-    </div>
-  </li>
-  <li>
-    <div>
-      <span>📝&nbsp;</span>
-      <span>2021/8</span>
-      <span>シンプルなメモアプリ</span>
-      <a style="padding: 0 4px;" href="https://apps.apple.com/jp/app/meemoo/id1575680714">iOS</a>
-    </div>
-  </li>
-  <li>
-    <div>
-      <span>🚃&nbsp;</span>
-      <span>2022/2</span>
-      <span>最適な集合場所を決められるサービス</span>
-      <a style="padding: 0 4px;" href="https://apps.apple.com/jp/app/この指とまれ/id1606856291">iOS</a>
+      <span>📣&nbsp;</span>
+      <span>2020/6</span>
+      <span>Reactでの文字→音声出力サービス</span>
+      <a style="padding: 0 4px;" href="https://github.com/nakapon9517/learn-speak">リポジトリ</a>
     </div>
   </li>
 </ul>
