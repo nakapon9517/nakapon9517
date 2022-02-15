@@ -19,6 +19,7 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
       <span>🚃&nbsp;</span>
       <span>2022/2</span>
       <span>（NEW）最適な集合場所を決められるサービス</span>
+      <a style="padding: 0 4px;" href="https://mangrove-help-dde.notion.site/0266d8c4443048cba5a83fc06318d10e">本サービスについて</a>
       <a style="padding: 0 4px;" href="https://apps.apple.com/jp/app/この指とまれ/id1606856291">iOS</a>
       <a style="padding: 0 4px;" href="https://play.google.com/store/apps/details?id=com.app.gatheragain">Android</a>
     </div>
