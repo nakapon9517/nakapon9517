@@ -8,7 +8,7 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
     <a href="https://www.notion.so/config-4f18f5476e8d44a38ea752de9b9d6af7">⚙️ まとめ</a>
   </li>
   <li>
-    <a href="https://www.resume.id/nakapooooon">🌱 レジュメ</a>
+    <a href="https://www.resume.id/nakapooooon">🌱 レジュメ（簡単な経歴）</a>
   </li>
 </ul>
 
@@ -16,7 +16,7 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
 <ul>
   <li>
     <div>
-      <span>🚃&nbsp;</span>
+      <span>👆🏻&nbsp;</span>
       <span>2022/2</span>
       <span>（NEW!!）最適な集合場所を決められるサービス</span>
       <a style="padding: 0 4px;" href="https://mangrove-help-dde.notion.site/0266d8c4443048cba5a83fc06318d10e">本サービスについて</a>
