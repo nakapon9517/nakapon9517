@@ -2,40 +2,22 @@
 https://github.com/anuraghazra/github-readme-stats#top-languages-card
 -->
 
-<ul>
-  <li>
-    <a href="https://www.notion.so/config-4f18f5476e8d44a38ea752de9b9d6af7">⚙️ まとめ</a>
-  </li>
-  <li>
-    <a href="https://www.resume.id/nakapooooon">🌱 レジュメ（簡単な経歴）</a>
-  </li>
-  <li>
-    <a href="https://twitter.com/nakapooooon">🐦 お問い合わせはTwitterから</a>
-  </li>
-</ul>
+<div>
+  <span>Profile</span><br/>
+  - <a href="https://www.notion.so/config-4f18f5476e8d44a38ea752de9b9d6af7">⚙️ Portal</a><br/>
+  - <a href="https://www.resume.id/nakapooooon">🌱 Resume</a><br/>
+  - <a href="https://twitter.com/nakapooooon">🐦 Contact</a><br/>
+</div>
 
-<ul>
-  <li>
-    <div>
-      <span>👆🏻&nbsp;</span>
-      <span>2022/9</span>
-      <span>この指とまれ</span>
-      <a style="padding: 0 4px;" href="https://mangrove-help-dde.notion.site/0266d8c4443048cba5a83fc06318d10e">ポータルサイト</a>
-      <a style="padding: 0 4px;" href="https://apps.apple.com/jp/app/この指とまれ/id1606856291">iOS</a>
-      <a style="padding: 0 4px;" href="https://play.google.com/store/apps/details?id=com.app.gatheragain">Android</a>
-    </div>
-  </li>
-  <li>
-    <div>
-      <span>🎮&nbsp;</span>
-      <span>2020/12</span>
-      <span>母校とコラボ オンライン対戦が可能なかるたアプリ</span>
-      <a style="padding: 0 4px;" href="https://apps.apple.com/jp/app/%E5%B2%A1%E5%B1%B1sdgs%E3%82%AB%E3%83%AB%E3%82%BF-%E3%83%90%E3%83%AA%E3%82%A2%E3%83%95%E3%83%AA%E3%83%BC%E7%B7%A8/id1542970005">iOS</a>
-      <a style="padding: 0 4px;" href="https://play.google.com/store/apps/details?id=com.ous.sdgs.karuta">Android</a>
-    </div>
-  </li>
-</ul>
+<br/>
 
+<div>
+  <span>この指とまれ</span><br/>
+  - <a style="padding: 0 4px;" href="https://mangrove-help-dde.notion.site/0266d8c4443048cba5a83fc06318d10e">Portal</a><br/>
+  - <a style="padding: 0 4px;" href="https://apps.apple.com/jp/app/この指とまれ/id1606856291">📱 iOS</a><br/>
+  - <a style="padding: 0 4px;" href="https://play.google.com/store/apps/details?id=com.app.gatheragain">📱 Android</a><br/>
+</div>
+  
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=nakapon9517&count_private=true&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight&hide_border=true&line_height=20" alt="nakapon's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nakapon9517&count_private=true&show_icons=true&locale=en&layout=compact&hide=go,Assembly&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
