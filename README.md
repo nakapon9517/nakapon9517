@@ -6,7 +6,7 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
   <span>Profile</span><br/>
   - <a href="https://www.notion.so/config-4f18f5476e8d44a38ea752de9b9d6af7">⚙️ Portal</a><br/>
   - <a href="https://www.resume.id/nakapooooon">🌱 Resume</a><br/>
-  - <a href="https://twitter.com/nakapooooon">🐦 Contact</a><br/>
+  - <a href="https://twitter.com/nakapooooon">📨 Contact</a><br/>
 </div>
 
 <br/>
