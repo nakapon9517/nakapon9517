@@ -2,7 +2,6 @@
 https://github.com/anuraghazra/github-readme-stats#top-languages-card
 -->
 
-<h2>まとめ</h2>
 <ul>
   <li>
     <a href="https://www.notion.so/config-4f18f5476e8d44a38ea752de9b9d6af7">⚙️ まとめ</a>
@@ -10,9 +9,11 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
   <li>
     <a href="https://www.resume.id/nakapooooon">🌱 レジュメ（簡単な経歴）</a>
   </li>
+  <li>
+    <a href="https://twitter.com/nakapooooon">🐦 お問い合わせはTwitterから</a>
+  </li>
 </ul>
 
-<h2>個人開発</h2>
 <ul>
   <li>
     <div>
