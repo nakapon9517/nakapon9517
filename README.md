@@ -3,9 +3,13 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
 -->
 
 <div>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakapon9517&theme=tokyonight" alt="Most Used Languages" />
-  <img src="https://github-readme-stats.vercel.app/api?username=nakapon9517&count_private=true&show_icons=true&locale=en&include_all_commits=true&theme=tokyonight&hide_border=true&line_height=20" alt="nakapon's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nakapon9517&count_private=true&show_icons=true&locale=en&layout=compact&hide=go,Assembly&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nakapon9517&theme=github_dark" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nakapon9517&theme=github_dark" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nakapon9517&theme=github_dark" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nakapon9517&theme=github_dark" alt="Most Used Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nakapon9517&theme=github_dark&utcOffset=9" alt="Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nakapon9517&count_private=true&show_icons=true&locale=en&include_all_commits=true&theme=github_dark&hide_border=true&line_height=20" alt="nakapon's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nakapon9517&count_private=true&show_icons=true&locale=en&layout=compact&hide=go,Assembly&theme=github_dark&hide_border=true" alt="Most Used Languages" />
 </div>
 
 <h3>Profile</h3>
