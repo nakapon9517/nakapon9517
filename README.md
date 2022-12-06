@@ -24,11 +24,21 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
 <br/>
 
 <h3>Follow & Connect with me:</h3>
-<p>
-  <a href="https://twitter.com/nakapooooon" target="blank">
-    <img src="https://img.shields.io/twitter/follow/nakapooooon?logo=twitter&style=for-the-badge" alt="nakapooooon" />
-  </a>
-</p>
+
+![Profile views](https://komarev.com/ghpvc/?username=nakapon9517&label=Profile%20views&color=blueviolet&style=flat)
+<a href="https://twitter.com/nakapooooon" target="blank">
+  <img src="https://img.shields.io/twitter/follow/nakapooooon?logo=twitter&style=flat" alt="nakapooooon" />
+</a>
+<a href="https://github.com/nakapon9517" target="blank">
+  <img src="https://img.shields.io/github/followers/nakapon9517?logo=github&style=flat" alt="nakapon9517" />
+</a>
+<a href="http://qiita.com/nakapon9517" target="blank">
+  <img src="https://qiita-badge.apiapi.app/s/nakapon9517/posts.svg" alt="nakapon9517" />
+</a>
+<a href="http://qiita.com/nakapon9517" target="blank">
+  <img src="https://qiita-badge.apiapi.app/s/nakapon9517/contributions.svg" alt="nakapon9517" />
+</a>
+
 
 <h3>Languages and Tools:</h3>
 <p>
@@ -72,5 +82,3 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
   </a>
 </p>
-
-<p> <img src="https://komarev.com/ghpvc/?username=nakapon9517&label=Profile%20views&color=0e75b6&style=flat" alt="nakapon9517" /></p>
