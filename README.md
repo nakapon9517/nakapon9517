@@ -18,7 +18,6 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
   <a href="https://apps.apple.com/jp/app/%E3%81%93%E3%81%AE%E6%8C%87%E3%81%A8%E3%81%BE%E3%82%8C/id1606856291">
     <img width="40%" style="max-width:240px" src="https://user-images.githubusercontent.com/62886817/212206387-31b76892-ef20-4d94-9e9a-dc7b79c82f2a.png" />
   </a>
-
   <a href="https://play.google.com/store/apps/details?id=com.app.gatheragain">
     <img width="40%" style="max-width:240px" src="https://user-images.githubusercontent.com/62886817/212206391-fc286647-aa11-4e2e-a3db-8d8369e4f1ab.png" />
   </a>
