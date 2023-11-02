@@ -7,7 +7,7 @@ https://github.com/anuraghazra/github-readme-stats#top-languages-card
 - <a href="https://www.resume.id/nakapooooon">🌱 Resume</a><br/>
 - <a href="https://twitter.com/nakapooooon">📨 Contact</a><br/>
 
-<h2>この指とまれ</h2>
+<h2>Knot</h2>
 <div style="max-width:600px">
   <a href="https://konoyubitomare.app">
     <img width="80%" height="auto" src="https://user-images.githubusercontent.com/62886817/212205938-85f9f4d4-e4d8-443c-936f-e4c4a9b01fee.png" />
